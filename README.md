@@ -2,6 +2,16 @@
 
 Deep Neural Network to colorize images in black and white colors using the Pix2Pix Architecture. Documentation can be found in TPF Redes Neuronales (in Spanish).
 
+# Table of contents
+
+* [Introduction](#Introduction)
+* [Dataset](#Dataset)
+* [Quick-Reference](#Quick Reference)
+* [Training](#Training)
+* [Training](#training)
+* [Contact](#Contact)
+* [License](#License)
+
 # Introduction
 
 The Pix2Pix architecture has proven effective for natural images, and the authors of the original paper claim that it can perform well the problem of image-to-image translation. However, synthetic images may present a challenging use scenario. 
@@ -32,6 +42,7 @@ git clone https://github.com/iancraz/Pix2Pix-Image-Colorizer.git
 After you have cloned this repository you need to create the directories `./Dataset/train/` and `./checkpoints/`, once you created this directories you can download this pretrained model so as not to have to retrain the model. The link to the checkpoint is:
 
 [Checkpoint](https://drive.google.com/file/d/10uJ-W6xV7viHc0UWiHsMUY4xFCFt4Ab5/view?usp=sharing)
+
 [Checkpoint Index](https://drive.google.com/file/d/10xVxfjFAN9A9nUKLIAe_3dh6yIP0_9Mw/view?usp=sharing)
 
 Once you have downloaded this checkpoints you must save them in the `./checkpoints/` folder.
