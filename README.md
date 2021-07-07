@@ -14,4 +14,70 @@ The dataset used in this work is the `Art Images: Drawing/Painting/Sculptures/En
 
 Here you can see some examples of this dataset:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/example1.jpg?raw=true "text")
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/example1.jpg?raw=true "Example 1")
+
+
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/example2.jpg?raw=true "Example 2")
+
+However, this dataset is already included in this repository, credits to Danil.
+
+# Quick Reference
+
+To run this example, you need to clone this repository:
+
+```
+git clone https://github.com/iancraz/Pix2Pix-Image-Colorizer.git
+```
+
+After you have cloned this repository you need to create the directories `./Dataset/train/` and `./checkpoints/`, once you created this directories you can download this pretrained model so as not to have to retrain the model. The link to the checkpoint is:
+
+[Checkpoint](https://drive.google.com/file/d/10uJ-W6xV7viHc0UWiHsMUY4xFCFt4Ab5/view?usp=sharing)
+[Checkpoint Index](https://drive.google.com/file/d/10xVxfjFAN9A9nUKLIAe_3dh6yIP0_9Mw/view?usp=sharing)
+
+Once you have downloaded this checkpoints you must save them in the `./checkpoints/` folder.
+
+Now you are ready to test this model, you must run all the Jupyter Notebook (Remember to update the paths in the file so that it matches your computer), and the model should run smoothly. 
+
+If you don't want to reatrain your model and prefer to use the pretrained one you **MUST NOT** run the cell:
+
+```Python
+train(train_dataset, 100)
+```
+
+You can test the model with the function:
+
+```Python
+generate_images(model, test_input, tar, save_filename=False, display_imgs=True)
+```
+
+# Training
+
+The training was done in 25 epochs whit 32 long batchsizes, the results are shown as follows:
+
+Input Image:
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/input.jpg?raw=true "Input")
+
+Target Image:
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/target.jpg?raw=true "Target")
+
+Epoch 1:
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_0.jpg?raw=true "Epoch 1")
+
+Epoch 5:
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_5.jpg?raw=true "Epoch 5")
+
+Epoch 10:
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_10.jpg?raw=true "Epoch 10")
+
+Epoch 15:
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_15.jpg?raw=true "Epoch 15")
+
+Epoch 20:
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_20.jpg?raw=true "Epoch 20")
+
+Epoch 25:
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_25.jpg?raw=true "Epoch 25")
+
+If you prefer you can watch the complete epochs gif as follows:
+
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/Training_epochs.gif?raw=true "Training")
