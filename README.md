@@ -13,12 +13,14 @@ Deep Neural Network to colorize images in black and white colors using the Pix2P
 * [License](#License)
 
 # Introduction
+>[Table of contents](#table-of-contents)
 
 The Pix2Pix architecture has proven effective for natural images, and the authors of the original paper claim that it can perform well the problem of image-to-image translation. However, synthetic images may present a challenging use scenario. 
 
 In this work, we use the Pix2Pix architecture for a colorization of art pictures in black and white.
 
 # Dataset
+>[Table of contents](#table-of-contents)
 
 The dataset used in this work is the `Art Images: Drawing/Painting/Sculptures/Engravings.` provided in [Kaggle](https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving). The dataset consist of images of artworks in different forms, such as Drawings, Sculptures, etc. However, in this work we used only the Draweings part of the dataset discarding the rest.
 
@@ -32,6 +34,7 @@ Here you can see some examples of this dataset:
 However, this dataset is already included in this repository, credits to Danil.
 
 # Quick Reference
+>[Table of contents](#table-of-contents)
 
 To run this example, you need to clone this repository:
 
@@ -62,6 +65,7 @@ generate_images(model, test_input, tar, save_filename=False, display_imgs=True)
 ```
 
 # Training
+>[Table of contents](#table-of-contents)
 
 The training was done in 25 epochs whit 32 long batchsizes, the results are shown as follows:
 
@@ -102,6 +106,7 @@ If you prefer you can watch the complete epochs gif as follows:
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/Training_epochs.gif?raw=true "Training")
 
 # Contact
+>[Table of contents](#table-of-contents)
 
 Please do not hesitate to reach out to me if you find any issue with the code or if you have any questions.
 
@@ -110,6 +115,7 @@ Please do not hesitate to reach out to me if you find any issue with the code or
 * LinkedIn Profile: [https://www.linkedin.com/in/iancraz/](https://www.linkedin.com/in/iancraz/)
 
 # License
+>[Table of contents](#table-of-contents)
 
 ```
 MIT License
