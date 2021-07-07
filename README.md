@@ -79,6 +79,8 @@ Target Image:
 
 Epoch 1:
 
+![](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_0.jpg?raw=true =250x250)
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_0.jpg?raw=true "Epoch 1")
 
 Epoch 5:
