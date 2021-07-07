@@ -81,31 +81,30 @@ Epoch 1:
 
 <img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_0.jpg?raw=true" width=300 align=center>
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_0.jpg?raw=true "Epoch 1")
-
 Epoch 5:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_5.jpg?raw=true "Epoch 5")
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_5.jpg?raw=true" width=300 align=center>
 
 Epoch 10:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_10.jpg?raw=true "Epoch 10")
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_10.jpg?raw=true" width=300 align=center>
 
 Epoch 15:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_15.jpg?raw=true "Epoch 15")
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_15.jpg?raw=true" width=300 align=center>
 
 Epoch 20:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_20.jpg?raw=true "Epoch 20")
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_20.jpg?raw=true" width=300 align=center>
+
 
 Epoch 25:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_25.jpg?raw=true "Epoch 25")
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_25.jpg?raw=true" width=300 align=center>
 
 If you prefer you can watch the complete epochs gif as follows:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/Training_epochs.gif?raw=true "Training")
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/Training_epochs.gif?raw=true" width=300 align=center>
 
 # Contact
 >[Table of contents](#table-of-contents)
