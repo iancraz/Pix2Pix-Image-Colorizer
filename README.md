@@ -6,7 +6,7 @@ Deep Neural Network to colorize images in black and white colors using the Pix2P
 
 * [Introduction](#Introduction)
 * [Dataset](#Dataset)
-* [Quick-Reference](#Quick Reference)
+* [Quick-Reference](#Quick-Reference)
 * [Training](#Training)
 * [Training](#training)
 * [Contact](#Contact)
