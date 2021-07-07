@@ -1,6 +1,6 @@
 # Pix2Pix-Image-Colorizer
 
-Deep Neural Network to colorize images in black and white colors using the Pix2Pix Architecture. Documentation can be found in [TPF Redes Neuronales](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/TPF%20Redes%20Neuronales.pdf) (in Spanish).
+Deep Neural Network to colorize images in black and white colors using the Pix2Pix Architecture. Documentation can be found in [TPF Redes Neuronales](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/TPF%20Redes%20Neuronales.pdf) (in Spanish).
 
 # Table of contents
 
@@ -26,10 +26,10 @@ The dataset used in this work is the `Art Images: Drawing/Painting/Sculptures/En
 
 Here you can see some examples of this dataset:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/example1.jpg?raw=true "Example 1")
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/example1.jpg?raw=true "Example 1")
 
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/example2.jpg?raw=true "Example 2")
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/example2.jpg?raw=true "Example 2")
 
 However, this dataset is already included in this repository, credits to Danil.
 
@@ -71,40 +71,40 @@ The training was done in 25 epochs whit 32 long batchsizes, the results are show
 
 Input Image:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/input.jpg?raw=true "Input")
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/input.jpg?raw=true "Input")
 
 Target Image:
 
-![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/target.jpg?raw=true "Target")
+![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/target.jpg?raw=true "Target")
 
 Epoch 1:
 
-<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_0.jpg?raw=true" width=300 align=center>
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/0_0.jpg?raw=true" width=300 align=center>
 
 Epoch 5:
 
-<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_5.jpg?raw=true" width=300 align=center>
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/0_5.jpg?raw=true" width=300 align=center>
 
 Epoch 10:
 
-<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_10.jpg?raw=true" width=300 align=center>
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/0_10.jpg?raw=true" width=300 align=center>
 
 Epoch 15:
 
-<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_15.jpg?raw=true" width=300 align=center>
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/0_15.jpg?raw=true" width=300 align=center>
 
 Epoch 20:
 
-<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_20.jpg?raw=true" width=300 align=center>
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/0_20.jpg?raw=true" width=300 align=center>
 
 
 Epoch 25:
 
-<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_25.jpg?raw=true" width=300 align=center>
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/0_25.jpg?raw=true" width=300 align=center>
 
 If you prefer you can watch the complete epochs gif as follows:
 
-<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/Training_epochs.gif?raw=true" width=300 align=center>
+<img src="https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/docs/Training_epochs.gif?raw=true" width=300 align=center>
 
 # Contact
 >[Table of contents](#table-of-contents)
