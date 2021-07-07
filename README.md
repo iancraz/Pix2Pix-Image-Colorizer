@@ -1,6 +1,6 @@
 # Pix2Pix-Image-Colorizer
 
-Deep Neural Network to colorize images in black and white colors using the Pix2Pix Architecture. Documentation can be found in TPF Redes Neuronales (in Spanish).
+Deep Neural Network to colorize images in black and white colors using the Pix2Pix Architecture. Documentation can be found in [TPF Redes Neuronales](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/TPF%20Redes%20Neuronales.pdf) (in Spanish).
 
 # Table of contents
 
