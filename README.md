@@ -121,7 +121,7 @@ Please do not hesitate to reach out to me if you find any issue with the code or
 ```
 MIT License
 
-Copyright (c) 2019 Héctor Martel
+Copyright (c) 2021 Ian Cruz Diaz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
