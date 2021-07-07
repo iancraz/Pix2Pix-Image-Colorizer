@@ -55,27 +55,35 @@ generate_images(model, test_input, tar, save_filename=False, display_imgs=True)
 The training was done in 25 epochs whit 32 long batchsizes, the results are shown as follows:
 
 Input Image:
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/input.jpg?raw=true "Input")
 
 Target Image:
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/target.jpg?raw=true "Target")
 
 Epoch 1:
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_0.jpg?raw=true "Epoch 1")
 
 Epoch 5:
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_5.jpg?raw=true "Epoch 5")
 
 Epoch 10:
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_10.jpg?raw=true "Epoch 10")
 
 Epoch 15:
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_15.jpg?raw=true "Epoch 15")
 
 Epoch 20:
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_20.jpg?raw=true "Epoch 20")
 
 Epoch 25:
+
 ![alt text](https://github.com/iancraz/Pix2Pix-Image-Colorizer/blob/main/0_25.jpg?raw=true "Epoch 25")
 
 If you prefer you can watch the complete epochs gif as follows:
@@ -86,8 +94,9 @@ If you prefer you can watch the complete epochs gif as follows:
 
 Please do not hesitate to reach out to me if you find any issue with the code or if you have any questions.
 
-⋅⋅* Personal email: [idiaz@itba.edu.ar](mailto:idiaz@itba.edu.ar)
-⋅⋅* LinkedIn Profile: [https://www.linkedin.com/in/iancraz/](https://www.linkedin.com/in/iancraz/)
+* Personal email: [idiaz@itba.edu.ar](mailto:idiaz@itba.edu.ar)
+
+* LinkedIn Profile: [https://www.linkedin.com/in/iancraz/](https://www.linkedin.com/in/iancraz/)
 
 # License
 
